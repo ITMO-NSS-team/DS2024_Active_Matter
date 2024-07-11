@@ -1,0 +1,9 @@
+numpy==2.0.0
+openpyxl==3.1.5
+pandas==2.2.2
+dill==0.3.8
+plotly==5.22.0
+matplotlib==3.9.1
+openpyxl==3.1.5
+imageio==2.34.2
+torch==2.3.1
